@@ -13,7 +13,7 @@ education:
 
 interests:
   - Labor Economics
-  - Health & Aging Economics
+  - Health and Aging Economics
 
 organizations:
   - name: The Ohio State University
