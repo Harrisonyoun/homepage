@@ -3,7 +3,7 @@ education:
   courses:
     - course: Ph.D. in Economics
       institution: The Ohio State University
-      year: 2028 (expected)
+      year: 2027 (expected)
     - course: M.Sc. in Economics
       institution: Barcelona School of Economics
       year: 2020
