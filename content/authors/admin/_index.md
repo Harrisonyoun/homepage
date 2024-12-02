@@ -32,7 +32,7 @@ social:
   link: https://scholar.google.com/citations?hl=en&user=GyMw0H0AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/yongjoonyoun
+  link: https://github.com/harrisonyoun
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/harrison-youn/
