@@ -7,7 +7,7 @@ date: "2024-12-10T00:00:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Harrison Youn'
+  caption: 'Image credit: Harrison Youn'
   focal_point: ""
   placement: 2
   preview_only: false
