@@ -15,7 +15,7 @@ interests:
   - Labor Economics
   - Health Economics
   - Aging
-  - Innovation
+  - Science and Innovation
 
 organizations:
   - name: The Ohio State University
