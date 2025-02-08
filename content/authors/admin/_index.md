@@ -42,6 +42,6 @@ superuser: true
 title: ''
 ---
 
-My research focuses on labor economics, health economics, aging, and innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years, specializing in economics of aging.
+My research focuses on labor economics, health economics, aging, and Science and innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years, specializing in economics of aging.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}
