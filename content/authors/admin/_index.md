@@ -20,7 +20,7 @@ interests:
 organizations:
   - name: The Ohio State University
     url: https://www.osu.edu/
-role: Ph.D. Student, Economics
+role: Ph.D. Candidate, Economics
 
 social:
 - icon: envelope
@@ -42,6 +42,6 @@ superuser: true
 title: ''
 ---
 
-My research focuses on Labor Economics, Health Economics, Aging, and Science and Innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years, specializing in economics of aging.
+I study Labor Economics, Health Economics, Aging, and Science and Innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years, specializing in economics of aging.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}
