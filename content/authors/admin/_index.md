@@ -31,7 +31,7 @@ social:
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?hl=en&user=GyMw0H0AAAAJ
-- icon: githubusethis::use_git()
+- icon: github
   icon_pack: fab
   link: https://github.com/harrisonyoun
 - icon: linkedin
