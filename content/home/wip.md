@@ -12,7 +12,7 @@ subtitle:
 content:
   filters:
     folders:
-      - research
+      - wip
     tag: ''
     category: ''
     publication_type: ''
