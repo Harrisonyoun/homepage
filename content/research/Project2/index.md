@@ -27,5 +27,5 @@ summary:
 #url_video: ""
 
 ---
-
+In this paper, I examine the labor market responses when employer sponsored health insurance, the single largest U.S. health insurance covering 165 million Americans, is decoupled from the U.S. labor market. This systematic decoupling creates spillovers and labor market distortions through feedback loop and reallocate the incentive structures of broader U.S. workforce. I both theoretically and empirically examine the mechanisms. I find employment elasticity responses aligned with the incentive bindings at the margins. My results carry direct implications for U.S. health insurance policy, which currently spend 24% of the federal budget.
  
