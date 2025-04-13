@@ -1,23 +1,18 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
-# This file represents a page section.
 headless: true
 active: true
 
-# Order that this section appears on the page.
-weight: 30
+weight: 50
 
-title: Publications
+title: Work in Progress
 subtitle: 
 
 content:
-  # Filter on criteria
   filters:
     folders:
-      - publication
+      - research
     tag: ''
     category: ''
     publication_type: ''
