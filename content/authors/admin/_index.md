@@ -41,6 +41,6 @@ superuser: true
 title: ''
 ---
 
-I study Labor Economics, Health Economics, Science and Innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years, specializing in economics of aging.
+I study Labor Economics, Health Economics, Science and Innovation. I leverage causal inference to address my research questions. Previously, I served as a research associate at the National University of Singapore (NUS) for two years.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}
