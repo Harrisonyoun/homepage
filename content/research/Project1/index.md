@@ -1,5 +1,5 @@
 ---
-title: "Intergenerational Dilemma: Balancing Windfalls and Burdens of Public Transfers in Korea"
+title: "Intergenerational Dilemma: Balancing Windfalls and Burdens of Public Transfers"
 date: "2024-08-12T00:00:00Z"
 summary: "This paper investigates the intergenerational balance between financial windfalls provided to elderly parents and the associated changing burdens faced by their children, examining the spillover and crowding-out effects of Korea's Basic Pension system."
 tags:
