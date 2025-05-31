@@ -1,9 +1,11 @@
 ---
-title: "Homo Economicus 2.0 (with Rachana Das)"
+title: "Killing Me Softly With Dinner: The Costs of Circadian Misalignment"
 date: "2025-04-12T00:00:00Z"
 summary: ""
 #tags:
-  #-
+#  - Public Transfers
+#  - Aging Population
+#  - Intergenerational Finance
 
 
 external_link: ""
@@ -25,4 +27,3 @@ summary:
 #url_video: ""
 
 ---
- 
